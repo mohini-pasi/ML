@@ -19,7 +19,7 @@ ML involves using algorithms to process data and create models that can make pre
 
 ## 💡 Applications
 
-ML is used in many areas, including:
+ML is used in many areas including:
 - Image recognition
 - Speech processing
 - Natural language processing (NLP)
